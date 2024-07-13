@@ -1,5 +1,6 @@
 FrontEnd developed with React
 Backend with Node
+connected with MongoDB atlas
 
 ![image](https://github.com/user-attachments/assets/7bfa4f34-437c-4a48-b294-6b8ea0c66af1)
 
